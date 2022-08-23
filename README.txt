@@ -1,0 +1,2 @@
+Place the Pygame Summative Better.py file in the same folder as the Star.png file. From here the program should function.
+Note: The program may fail to close if you are not sitting on the guessing page.
